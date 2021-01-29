@@ -37,5 +37,8 @@ Gesetzliche Freibeträge (muss eingestellt werden, was gelten soll):
 
 **HINWEIS!**
 
-Dieses Tool ersetzt keinenfalls eine professionelle Finanzberatung oder einen Steuerberater.
-Es dient lediglich einer groben Einschätzung bzw. Simulation, welche Wertentwicklung nach selbst zu wählenden Parametern und Anpassungen vllt. erwartet werden kann!
+Dieses Tool ersetzt keinenfalls eine professionelle Finanz- oder Steuerberatung!
+Es dient lediglich einer sehr groben Einschätzung, welche Wertentwicklung nach selbst zu wählenden Parametern evtl. erwartet werden kann.
+Das Tool verwenden Sie somit auf eigene Gefahr;
+ich übernehme keine Haftung für jegliche Umstände,
+die sich aus der Nutzung dieses Programmes ergeben!

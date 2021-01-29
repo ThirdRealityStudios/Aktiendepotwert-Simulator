@@ -26,9 +26,9 @@ Gesetzliche Steuersätze:
 - Solidaritätszuschlag 5,5% (ab 2021)
 
 "Beitragssteuern":
-- Kirchensteuer c.a. 8%
+- Kirchensteuer c.a. 8% (optional)
 
-Gesetzliche Freibeträge (muss eingestellt werden, was gelten soll):
+Gesetzliche Freibeträge (beide optional):
 - Sparer-Pauschbetrag 801€ (Freistellauftrag; nur Single berücksichtigt)
 - Grundfreibetrag 9744€ (NV-Bescheinigung; nur Single berücksichtigt)
 
